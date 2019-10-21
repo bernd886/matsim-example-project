@@ -25,9 +25,6 @@ public class FavouriteScript2 {
 
         controler.run() ;
 
-
-
-
     }
 
 }
