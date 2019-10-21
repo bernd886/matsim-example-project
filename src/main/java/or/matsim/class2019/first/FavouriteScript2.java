@@ -7,7 +7,7 @@ import org.matsim.core.controler.Controler;
 import org.matsim.core.controler.OutputDirectoryHierarchy;
 import org.matsim.core.scenario.ScenarioUtils;
 
-public class FavouriteSCript2 {
+public class FavouriteScript2 {
 
     public static void main(String[] args) {
 
